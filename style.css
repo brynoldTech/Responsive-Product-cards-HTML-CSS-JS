@@ -181,8 +181,7 @@ body{
     }
     .content-block .buttons{
         display: flex;
-        /* justify-content: space-around; */
-        margin-left: 11rem;
+        margin-left: 9rem;
         margin-bottom: 3rem;
 
     }
