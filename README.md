@@ -1,6 +1,6 @@
+#Youtube Tutorial : https://youtu.be/0Ksw9Bal_wU
+
 # Responsive-Product-cards-HTML-CSS-JS![trending cards ](https://user-images.githubusercontent.com/105700561/175775962-4ec7b2e1-d3f9-4d59-996b-86da7fde02aa.png)
-
-
 
 
 https://user-images.githubusercontent.com/105700561/175775978-5ec3ab4d-8871-4a77-9333-c49e15ce87e6.mp4
